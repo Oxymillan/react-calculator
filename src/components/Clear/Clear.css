@@ -1,0 +1,10 @@
+.clear{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    width: 7.14em;
+    font-size: 1.8em;
+    border: 1px solid #b01734;
+    color: #a1a0a0;
+}

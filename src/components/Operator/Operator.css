@@ -1,0 +1,11 @@
+.btn-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 2.1em;
+    width: 2.1em;
+    background-color: #f2274f;
+    border: 1px solid #b01734;
+    color: #fff;
+    font-size: 2em;
+}

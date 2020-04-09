@@ -1,0 +1,9 @@
+.numPad{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    width: 2.1em;
+    font-size: 2em;
+    border: 1px solid #b01734;
+}

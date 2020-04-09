@@ -1,0 +1,22 @@
+.App {
+    text-align: center;
+    height: 100em;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+  }
+
+.calculator{
+    width: 80%;
+    max-width: 17.3em;
+    height: 372px;
+    border: 1px solid #b01734;
+}
+
+.row{
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+}
+  
